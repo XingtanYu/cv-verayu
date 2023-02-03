@@ -14,6 +14,7 @@ h1, h2 {
 }
 ```
 
+
 # Eduation
 
 ### Master's Degree
@@ -26,11 +27,7 @@ h1, h2 {
 
 <br>
 
-\center
-
 # Professional Experiences
-
-\center
 
 1. Sleeeeping with cats
 
@@ -44,19 +41,14 @@ h1, h2 {
 
 <br>
 
-\center
-
 # Employment
 
-\center
 
 ```{r, fig.align="center", eval=TRUE, echo=FALSE}
 knitr::include_graphics("/Users/verayu/Desktop/IMG_7104.JPG")
 ```
 
 <br>
-
-<center>![ ](/Users/verayu/Desktop/IMG_5858.jpeg)</center>
 
 ```{r, fig.align="center", eval=TRUE, echo=FALSE}
 knitr::include_graphics("/Users/verayu/Desktop/IMG_5858.jpeg")

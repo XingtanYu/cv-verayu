@@ -39,10 +39,6 @@ h1, h2 {
 
 <br>
 
-<center>
-![](/Users/verayu/Desktop/IMG_5858.jpeg)
-</center>
-
 <img src="../../IMG_5858.jpeg" style="display: block; margin: auto;" />
 
 [^1]: they are SUPER cute
