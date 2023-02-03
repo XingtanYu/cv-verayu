@@ -1,7 +1,13 @@
 Vera Yu - CV
 ================
 
-# Education
+<style type="text/css">
+h1, h2 {
+  text-align: center;
+}
+</style>
+
+# Eduation
 
 ### Master’s Degree
 
@@ -32,6 +38,10 @@ Vera Yu - CV
 <img src="../../IMG_7104.JPG" style="display: block; margin: auto;" />
 
 <br>
+
+<center>
+![](/Users/verayu/Desktop/IMG_5858.jpeg)
+</center>
 
 <img src="../../IMG_5858.jpeg" style="display: block; margin: auto;" />
 

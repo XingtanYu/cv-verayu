@@ -7,11 +7,14 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-\center 
 
-# Education 
+```{css, echo=FALSE}
+h1, h2 {
+  text-align: center;
+}
+```
 
-\center
+# Eduation
 
 ### Master's Degree
 
@@ -52,6 +55,8 @@ knitr::include_graphics("/Users/verayu/Desktop/IMG_7104.JPG")
 ```
 
 <br>
+
+<center>![ ](/Users/verayu/Desktop/IMG_5858.jpeg)</center>
 
 ```{r, fig.align="center", eval=TRUE, echo=FALSE}
 knitr::include_graphics("/Users/verayu/Desktop/IMG_5858.jpeg")
