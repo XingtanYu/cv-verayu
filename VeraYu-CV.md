@@ -1,13 +1,11 @@
 Vera Yu - CV
 ================
 
-<style type="text/css">
-h1, h2 {
-  text-align: center;
-}
-</style>
+<p align="center">
 
-# Eduation
+# Education
+
+</p>
 
 ### Master’s Degree
 
@@ -19,7 +17,11 @@ h1, h2 {
 
 <br>
 
+<p align="center">
+
 # Professional Experiences
+
+</p>
 
 1.  Sleeeeping with cats
 
@@ -33,12 +35,19 @@ h1, h2 {
 
 <br>
 
+<p align="center">
+
 # Employment
 
-<img src="../../IMG_7104.JPG" style="display: block; margin: auto;" />
+</p>
+<p align="center">
+<img width="200" src="/Users/verayu/Desktop/IMG_7104.JPG">
+</p>
 
 <br>
 
-<img src="../../IMG_5858.jpeg" style="display: block; margin: auto;" />
+<p align="center">
+<img width="200" src="/Users/verayu/Desktop/IMG_5858.jpeg">
+</p>
 
 [^1]: they are SUPER cute

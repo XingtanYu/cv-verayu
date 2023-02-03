@@ -7,15 +7,10 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<p align="center">
+  # Education
+</p>
 
-```{css, echo=FALSE}
-h1, h2 {
-  text-align: center;
-}
-```
-
-
-# Eduation
 
 ### Master's Degree
 
@@ -27,7 +22,9 @@ h1, h2 {
 
 <br>
 
-# Professional Experiences
+<p align="center">
+  # Professional Experiences
+</p>
 
 1. Sleeeeping with cats
 
@@ -41,17 +38,18 @@ h1, h2 {
 
 <br>
 
-# Employment
+<p align="center">
+  # Employment
+</p>
 
-
-```{r, fig.align="center", eval=TRUE, echo=FALSE}
-knitr::include_graphics("/Users/verayu/Desktop/IMG_7104.JPG")
-```
+<p align="center">
+    <img width="200" src="/Users/verayu/Desktop/IMG_7104.JPG">
+</p>
 
 <br>
 
-```{r, fig.align="center", eval=TRUE, echo=FALSE}
-knitr::include_graphics("/Users/verayu/Desktop/IMG_5858.jpeg")
-```
+<p align="center">
+    <img width="200" src="/Users/verayu/Desktop/IMG_5858.jpeg">
+</p>
 
 
