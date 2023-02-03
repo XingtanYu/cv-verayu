@@ -19,7 +19,7 @@ Education
 Professional Experiences
 </h1>
 
-1.  Sleeeeping with cats
+1.  Sleeping with cats
 
 2.  Walking with doooogs
 
