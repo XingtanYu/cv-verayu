@@ -7,11 +7,11 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<center> 
+\center 
 
 # Education 
 
-</center>
+\center
 
 ### Master's Degree
 
@@ -23,11 +23,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-<center>
+\center
 
 # Professional Experiences
 
-</center>
+\center
 
 1. Sleeeeping with cats
 
@@ -41,15 +41,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-<center>
+\center
 
 # Employment
 
-</center>
+\center
 
-![](/Users/verayu/Desktop/IMG_7104.JPG)
+```{r, fig.align="center", eval=TRUE, echo=FALSE}
+knitr::include_graphics("/Users/verayu/Desktop/IMG_7104.JPG")
+```
 
 <br>
 
-![](/Users/verayu/Desktop/IMG_5858.jpeg)
+```{r, fig.align="center", eval=TRUE, echo=FALSE}
+knitr::include_graphics("/Users/verayu/Desktop/IMG_5858.jpeg")
+```
+
 
