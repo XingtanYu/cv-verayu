@@ -43,13 +43,12 @@ knitr::opts_chunk$set(echo = TRUE)
 </p>
 
 <p align="center">
-    <img width="200" src="/Users/verayu/Desktop/IMG_7104.JPG">
+    <img width="200" src="/Users/verayu/Desktop/NTRES6100/cv-verayu/IMG_7104.JPG">
 </p>
 
 <br>
 
 <p align="center">
-    <img width="200" src="/Users/verayu/Desktop/IMG_5858.jpeg">
+    <img width="200" src="/Users/verayu/Desktop/NTRES6100/cv-verayu/IMG_5858.jpeg">
 </p>
-
 
