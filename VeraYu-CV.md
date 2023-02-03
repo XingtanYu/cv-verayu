@@ -50,4 +50,6 @@ Vera Yu - CV
 <img width="200" src="/Users/verayu/Desktop/NTRES6100/cv-verayu/IMG_5858.jpeg">
 </p>
 
+<br>
+
 [^1]: they are SUPER cute
