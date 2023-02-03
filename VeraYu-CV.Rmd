@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <h1 align="center">Professional Experiences</h1>
 
-1. Sleeeeping with cats
+1.  with cats
 
 2. Walking with doooogs
 
