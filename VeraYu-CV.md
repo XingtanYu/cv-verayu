@@ -1,11 +1,9 @@
 Vera Yu - CV
 ================
 
-<p align="center">
-
-# Education
-
-</p>
+<h1 align="center">
+Education
+</h1>
 
 ### Master’s Degree
 
@@ -17,11 +15,9 @@ Vera Yu - CV
 
 <br>
 
-<p align="center">
-
-# Professional Experiences
-
-</p>
+<h1 align="center">
+Professional Experiences
+</h1>
 
 1.  Sleeeeping with cats
 
@@ -35,11 +31,9 @@ Vera Yu - CV
 
 <br>
 
-<p align="center">
-
-# Employment
-
-</p>
+<h1 align="center">
+Employment
+</h1>
 
 ![IMG_7104](https://user-images.githubusercontent.com/123325489/216679736-ff48592b-cbc1-404d-903a-c789612a8a94.JPG)
 <br>
