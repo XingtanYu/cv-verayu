@@ -42,17 +42,10 @@ knitr::opts_chunk$set(echo = TRUE)
   # Employment
 </p>
 
-![](/Users/verayu/Desktop/IMG_7104.jpg)
-
+![IMG_7104](https://user-images.githubusercontent.com/123325489/216679736-ff48592b-cbc1-404d-903a-c789612a8a94.JPG)
 <br>
 
-![](/Users/verayu/Desktop/IMG_5858.jpeg)
-
-
-
-
-
-
+![IMG_5858](https://user-images.githubusercontent.com/123325489/216679743-118dfef7-c07e-4416-bf06-a9266e5c20ba.jpeg)
 
 
 
