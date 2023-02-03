@@ -40,16 +40,11 @@ Vera Yu - CV
 # Employment
 
 </p>
-<p align="center">
-<img width="200" src="/Users/verayu/Desktop/NTRES6100/cv-verayu/IMG_7104.JPG">
-</p>
+
+![](/Users/verayu/Desktop/IMG_7104.jpg)
 
 <br>
 
-<p align="center">
-<img width="200" src="/Users/verayu/Desktop/NTRES6100/cv-verayu/IMG_5858.jpeg">
-</p>
-
-<br>
+![](/Users/verayu/Desktop/IMG_5858.jpeg)
 
 [^1]: they are SUPER cute
